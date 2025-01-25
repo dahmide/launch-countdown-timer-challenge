@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub](https://your-solution-url.com)
-- Live Site URL: [Vercel](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/dahmide/launch-countdown-timer-challenge)
+- Live Site URL: [Vercel](https://lct-dahmide-frontendmentor.vercel.app)
 
 ## My process
 
